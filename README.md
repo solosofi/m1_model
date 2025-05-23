@@ -1,3 +1,2 @@
-# M1 Hybrid Reasoning Model
-
-This repository contains the training pipeline for the M1 Hybrid Reasoning Model, including distillation, supervised fine-tuning (SFT), RL, and inference.
+#M1
+An AI Agent that recursively improves itself and can iterate over a problem to find more efficient solutions in topics like math, physics etc. and provide novel solutions
